@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT Music_Store (Name,Address,Contact,Website_address,Logo,Songs)>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT Address (#PCDATA)>
+<!ELEMENT Contact (Telephone,Phone+,Facebook_Page)>
+<!ELEMENT Telephone (#PCDATA)>
+<!ELEMENT Phone (#PCDATA)>
+<!ELEMENT Facebook_Page (#PCDATA)>
+<!ELEMENT Website_address (#PCDATA)>
+<!ELEMENT Logo (#PCDATA)>
+<!ELEMENT Songs (Song+)>
+<!ELEMENT Song (Title,Language,Writers,Artists,Album,Released,Movie_Playback,Awards,Director*,Composer+,Producer*)>
+<!ATTLIST Song song_id ID #REQUIRED>
+<!ATTLIST Song Genre CDATA #REQUIRED>
+<!ATTLIST Song Length CDATA #REQUIRED>
+<!ELEMENT Title (#PCDATA)>
+<!ELEMENT Language (#PCDATA)>
+<!ELEMENT Writers (writer+)>
+<!ELEMENT writer (#PCDATA)>
+<!ATTLIST writer wr_id ID #REQUIRED>
+<!ATTLIST writer wr_gender (Male | Female) #REQUIRED>
+<!ELEMENT Artists (Band?,Singers)>
+<!ELEMENT Band (#PCDATA)>
+<!ELEMENT Singers (Solo?,Duets?,Group?)>
+<!ELEMENT Solo (S_Singer?)>
+<!ELEMENT S_Singer (#PCDATA)>
+<!ATTLIST S_Singer ssing_id ID #REQUIRED>
+<!ATTLIST S_Singer s_gender (Male | Female) #REQUIRED>
+<!ELEMENT Duets (D_Singer*)>
+<!ELEMENT D_Singer (#PCDATA)>
+<!ATTLIST D_Singer dsing_id ID #REQUIRED>
+<!ATTLIST D_Singer d_gender (Male | Female) #REQUIRED>
+<!ELEMENT Group (G_Singer*)>
+<!ELEMENT G_Singer (#PCDATA)>
+<!ATTLIST G_Singer gsing_id ID #REQUIRED>
+<!ATTLIST G_Singer g_gender (Male | Female) #REQUIRED>
+<!ELEMENT Album (#PCDATA)>
+<!ELEMENT Released (#PCDATA)>
+<!ELEMENT Movie_Playback (#PCDATA)>
+<!ELEMENT Awards (Award*)>
+<!ELEMENT Award (#PCDATA)>
+<!ELEMENT Director (#PCDATA)>
+<!ELEMENT Composer (#PCDATA)>
+<!ELEMENT Producer (#PCDATA)>

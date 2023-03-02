@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="Music_Store">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:group ref="Music_StoreGR" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:complexType name="ContactType">
+        <xs:sequence>
+            <xs:group ref="ContactTypeGR" />
+        </xs:sequence>
+
+    </xs:complexType>
+    <xs:complexType name="SongsType">
+        <xs:sequence>
+            <xs:group ref="SongsTypeGR" />
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="SongType">
+        <xs:sequence>
+            <xs:group ref="SongTypeGR" />
+        </xs:sequence>
+        <xs:attributeGroup ref="SongTypeATTR" />
+    </xs:complexType>
+
+    <xs:attributeGroup name="SongTypeATTR">
+        <xs:attribute name="song_id" type="xs:ID" use="required" />
+        <xs:attribute name="Genre" type="xs:string" use="required" />
+        <xs:attribute name="Length" type="xs:string" use="required" />
+    </xs:attributeGroup>
+
+    <xs:complexType name="WritersType">
+        <xs:sequence>
+            <xs:group ref="WritersTypeGR" />
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="ArtistsType">
+        <xs:sequence>
+            <xs:group ref="ArtistsTypeGR"></xs:group>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="AwardsType">
+        <xs:sequence>
+            <xs:group ref="AwardsTypeGR"></xs:group>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:simpleType name="TelephoneST">
+        <xs:restriction base="xs:positiveInteger">
+            <xs:pattern value="023[0-9]{6}" />
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="PhoneST">
+        <xs:restriction base="xs:positiveInteger">
+            <xs:pattern value="98[0-9]{8}" />
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="writerST">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Male" />
+            <xs:enumeration value="Female" />
+            <xs:enumeration value="Other" />
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="s_genderST">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Male" />
+            <xs:enumeration value="Female" />
+            <xs:enumeration value="Other" />
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="d_genderST">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Male" />
+            <xs:enumeration value="Female" />
+            <xs:enumeration value="Other" />
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="g_genderST">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Male" />
+            <xs:enumeration value="Female" />
+            <xs:enumeration value="Other" />
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:group name="Music_StoreGR">
+        <xs:sequence>
+            <xs:element name="Name" type="xs:string" />
+            <xs:element name="Address" type="xs:string" />
+            <xs:element name="Contact" type="ContactType" />
+            <xs:element name="Website_address" type="xs:string" />
+            <xs:element name="Logo" type="xs:string" />
+            <xs:element name="Songs" type="SongsType" />
+        </xs:sequence>
+    </xs:group>
+
+    <xs:group name="ContactTypeGR">
+        <xs:sequence>
+            <xs:element name="Telephone" type="TelephoneST" />
+            <xs:element name="Phone" maxOccurs="unbounded" type="PhoneST" />
+            <xs:element name="Facebook_Page" type="xs:string" />
+        </xs:sequence>
+    </xs:group>
+    <xs:group name="SongsTypeGR">
+        <xs:sequence>
+            <xs:element name="Song" maxOccurs="unbounded" type="SongType" />
+        </xs:sequence>
+    </xs:group>
+    <xs:group name="SongTypeGR">
+        <xs:sequence>
+            <xs:element name="Title" type="xs:string" />
+            <xs:element name="Language" type="xs:string" />
+            <xs:element name="Writers" type="WritersType" />
+            <xs:element name="Artists" type="ArtistsType" />
+            <xs:element name="Album" type="xs:string" />
+            <xs:element name="Released" type="xs:string" />
+            <xs:element name="Movie_Playback" />
+            <xs:element name="Awards" type="AwardsType" />
+            <xs:element name="Director" type="xs:string" />
+            <xs:element name="Composer" type="xs:string" maxOccurs="unbounded" />
+            <xs:element name="Producer" type="xs:string" />
+        </xs:sequence>
+    </xs:group>
+
+    <xs:group name="WritersTypeGR">
+        <xs:sequence>
+            <xs:element name="writer" maxOccurs="unbounded">
+                <xs:complexType>
+                    <xs:simpleContent>
+                        <xs:extension base="xs:string">
+                            <xs:attributeGroup ref="WritersTypeGRATTR" />
+                        </xs:extension>
+                    </xs:simpleContent>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:group>
+    <xs:attributeGroup name="WritersTypeGRATTR">
+        <xs:attribute name="wr_id" type="xs:ID" />
+        <xs:attribute name="wr_gender" type="writerST" />
+    </xs:attributeGroup>
+    <xs:group name="ArtistsTypeGR">
+        <xs:sequence>
+            <xs:element name="Band" type="xs:string" minOccurs="0"/>
+            <xs:element name="Singers" minOccurs="1">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="Solo" minOccurs="0">
+                            <xs:complexType>
+                                <xs:sequence>
+                                    <xs:element name="S_Singer" />
+                                </xs:sequence>
+                                <xs:attributeGroup ref="ArtistsTypeGRATTR" />
+                            </xs:complexType>
+                        </xs:element>
+                        <xs:element name="Duets" minOccurs="0">
+                            <xs:complexType>
+                                <xs:sequence>
+                                    <xs:element name="D_Singer" maxOccurs="unbounded" />
+                                </xs:sequence>
+                                <xs:attributeGroup ref="DuetsATTR" />
+                            </xs:complexType>
+                        </xs:element>
+                        <xs:element name="Group" minOccurs="0">
+                            <xs:complexType>
+                                <xs:sequence>
+                                    <xs:element name="G_Singer" maxOccurs="unbounded" />
+                                </xs:sequence>
+                                <xs:attributeGroup ref="GroupATTR" />
+                            </xs:complexType>
+                        </xs:element>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:group>
+    <xs:attributeGroup name="ArtistsTypeGRATTR">
+        <xs:attribute name="ssing_id" type="xs:ID" />
+        <xs:attribute name="s_gender" type="s_genderST" />
+    </xs:attributeGroup>
+
+    <xs:attributeGroup name="DuetsATTR">
+        <xs:attribute name="dsing_id" type="xs:ID" />
+        <xs:attribute name="d_gender" type="d_genderST" />
+    </xs:attributeGroup>
+    <xs:attributeGroup name="GroupATTR">
+        <xs:attribute name="gsing_id" type="xs:ID" />
+        <xs:attribute name="g_gender" type="g_genderST" />
+    </xs:attributeGroup>
+    <xs:group name="AwardsTypeGR">
+        <xs:sequence>
+            <xs:element name="Award" type="xs:string" maxOccurs="unbounded" />
+        </xs:sequence>
+    </xs:group>
+</xs:schema>

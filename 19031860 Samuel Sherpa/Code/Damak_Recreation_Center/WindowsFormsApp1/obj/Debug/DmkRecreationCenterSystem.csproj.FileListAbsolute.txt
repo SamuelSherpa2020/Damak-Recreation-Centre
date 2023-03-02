@@ -1,0 +1,48 @@
+F:\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\Microsoft.Azure.KeyVault.dll
+F:\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\Microsoft.Azure.KeyVault.WebKey.dll
+F:\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+F:\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+F:\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+F:\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+F:\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+F:\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+F:\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\DmkRecreationCenterSystem.csproj.AssemblyReference.cache
+F:\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminPanel.resources
+F:\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminLogin.resources
+F:\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Addcustomer.resources
+F:\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainLogin.resources
+F:\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StaffPanel.resources
+F:\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StaffLogin.resources
+F:\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\DmkRecreationCenterSystem.csproj.GenerateResource.cache
+F:\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\DmkRecreationCenterSystem.csproj.CoreCompileInputs.cache
+F:\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Samuel\OneDrive\Attachments\Z-Year 3\Application Development\19031860 Samuel Sherpa\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Samuel\OneDrive\Attachments\Z-Year 3\Application Development\19031860 Samuel Sherpa\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Samuel\OneDrive\Attachments\Z-Year 3\Application Development\19031860 Samuel Sherpa\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Samuel\OneDrive\Attachments\Z-Year 3\Application Development\19031860 Samuel Sherpa\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\Microsoft.Azure.KeyVault.dll
+C:\Users\Samuel\OneDrive\Attachments\Z-Year 3\Application Development\19031860 Samuel Sherpa\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\Microsoft.Azure.KeyVault.WebKey.dll
+C:\Users\Samuel\OneDrive\Attachments\Z-Year 3\Application Development\19031860 Samuel Sherpa\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\Samuel\OneDrive\Attachments\Z-Year 3\Application Development\19031860 Samuel Sherpa\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Samuel\OneDrive\Attachments\Z-Year 3\Application Development\19031860 Samuel Sherpa\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Samuel\OneDrive\Attachments\Z-Year 3\Application Development\19031860 Samuel Sherpa\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Samuel\OneDrive\Attachments\Z-Year 3\Application Development\19031860 Samuel Sherpa\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\Samuel\OneDrive\Attachments\Z-Year 3\Application Development\19031860 Samuel Sherpa\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Samuel\OneDrive\Attachments\Z-Year 3\Application Development\19031860 Samuel Sherpa\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\DmkRecreationCenterSystem.csproj.AssemblyReference.cache
+C:\Users\Samuel\OneDrive\Attachments\Z-Year 3\Application Development\19031860 Samuel Sherpa\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminPanel.resources
+C:\Users\Samuel\OneDrive\Attachments\Z-Year 3\Application Development\19031860 Samuel Sherpa\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminLogin.resources
+C:\Users\Samuel\OneDrive\Attachments\Z-Year 3\Application Development\19031860 Samuel Sherpa\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Addcustomer.resources
+C:\Users\Samuel\OneDrive\Attachments\Z-Year 3\Application Development\19031860 Samuel Sherpa\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainLogin.resources
+C:\Users\Samuel\OneDrive\Attachments\Z-Year 3\Application Development\19031860 Samuel Sherpa\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Samuel\OneDrive\Attachments\Z-Year 3\Application Development\19031860 Samuel Sherpa\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StaffPanel.resources
+C:\Users\Samuel\OneDrive\Attachments\Z-Year 3\Application Development\19031860 Samuel Sherpa\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StaffLogin.resources
+C:\Users\Samuel\OneDrive\Attachments\Z-Year 3\Application Development\19031860 Samuel Sherpa\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\DmkRecreationCenterSystem.csproj.GenerateResource.cache
+C:\Users\Samuel\OneDrive\Attachments\Z-Year 3\Application Development\19031860 Samuel Sherpa\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\DmkRecreationCenterSystem.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\OneDrive\Attachments\Z-Year 3\Application Development\19031860 Samuel Sherpa\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Samuel\OneDrive\Attachments\Z-Year 3\Application Development\19031860 Samuel Sherpa\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Samuel\OneDrive\Attachments\Z-Year 3\Application Development\CW1 (Damak Recreation Centre)\19031860 Samuel Sherpa\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Samuel\OneDrive\Attachments\Z-Year 3\Application Development\CW1 (Damak Recreation Centre)\19031860 Samuel Sherpa\19031860 Samuel Sherpa\Code\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

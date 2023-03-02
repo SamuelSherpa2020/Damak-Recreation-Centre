@@ -1,0 +1,28 @@
+Ticket Id, Customer Name, Contact Number, Address, Category, Date, Name of Day, Total People, Total Time, Time In, Time Out, Ticket Rate, Total Amount
+1, Manoj,8723422342, Itahari - 10, Adult > 12, 30 December 2021, Thursday,2, 2 Hours, 2 pm, 4 pm,1000,2000
+2, Jack,9023424234, dharan, Child (5-12), 30 December 2021, Thursday,3, 1 Hours, 2 pm, 3 pm,400,1200
+3, John,9823425342, Bhojpur, Adult > 12, 30 December 2021, Thursday,1, 3 Hours, 10 am, 1 pm,1500,1500
+4, Rose,9002344234, Damak, Child (5-12), 29 December 2021, Wednesday,4, 4 Hours, 10 am, 2 pm,1450,5800
+5, Sunil,9012314112, Pathri, Group of 5, 29 December 2021, Wednesday,5, 2 Hours, 2 pm, 4 pm,1300,6500
+6, Vupal,9999231242, Jhapa, Adult > 12, 30 December 2021, Thursday,3, 4 Hours, 10 am, 3 pm,2100,6300
+7, Sanjeeb,9123141231, Dharan, Group of 10, 31 December 2021, Friday,10, 3 Hours, 10 am, 1 pm,2500,25000
+8, Sunita,9123123412, Itahari, Adult > 12, 26 December 2021, Sunday,3, 1 Hours, 1 pm, 2 pm,550,1650
+9, Rohit,9912314823, Biratnagar, Child (5-12), 31 December 2021, Friday,2, 2 Hours, 11 am, 1 pm,700,1400
+10, Karishma,9120314012, Dharan, Adult > 12, 27 December 2021, Monday,1, 3 Hours, 10 am, 1 pm,1500,1500
+11, Arju,9012318123, Itahari, Adult > 12, 28 December 2021, Tuesday,2, 2 Hours, 1 pm, 3 pm,1000,2000
+12, Paras,9910231232, Itahari, Adult > 12, 24 December 2021, Friday,1, 2 Hours, 10 am, 12 pm,1000,1000
+13, prabhat,9989700787, damakh, Adult > 12, 31 December 2021, Friday,3, 1 Hours, 10 am, 11 am,550,1650
+14, gaurave,7989796969, Itahari, Group of 5, 01 January 2022, Saturday,5, 1 Hours, 12 pm, 1 pm,1000,5000
+15, Kacto,9823424234, Tarahara, Adult > 12, 01 January 2022, Saturday,2, 2 Hours, 10 am, 12 pm,1000,2000
+16, Rojina,9812314214, Biratnagar, Adult > 12, 01 January 2022, Saturday,2, 2 Hours, 11 am, 1 pm,1000,2000
+17, Samuel Sherpa, 9814978898, Damak, Group of 5, 01 January 2022, Saturday, 5, 7 Hours, 10 am, 5 pm, 3000, 15000
+18, Pratik Limbu, 9878889898, Birtamode, Adult > 12, 01 January 2022, Saturday, 1, 4 Hours, 11 am, 3 pm,  2200, 2200
+19, Mausam Chaudhary, 9878778889, Fattepepur, Adult > 12, 01 January 2022, Sunday, 1, 4 Hours, 1 pm, 5 pm,  2200, 2200
+20, Pushkar Dhungana, 9877878765, BiratChowk, Child (5-12), 01 January 2022, Monday, 1, 4 Hours, 1 pm, 5 pm,  1000, 1000
+21, King_jireh, 9767688976, Kathmandu, Group of 5, 01 January 2022, Monday, 5, 3 Hours, 10 am, 1 pm,  2000, 10000
+22, Mahendra, 9842542534, Fidim, Child (5-12), 01 January 2022, Monday, 1, 4 Hours, 12 pm, 4 pm,  1000, 1000
+23, MJ, 9867676565, Tarhara, Child (5-12), 03 January 2022, Monday, 1, 3 Hours, 12 pm, 3 pm,  800, 800
+24, Subu, 9878776765, Damak, Adult > 12, 03 January 2022, Monday, 1, 5 Hours, 11 am, 4 pm,  2800, 2800
+25, Sanu Karki, 9876765432, Kerkha, Child (5-12), 03 January 2022, Monday, 1, 7 Hours, 10 am, 5 pm,  1500, 1500
+26, Rojy Karki, 9877565432, Pokhara, Group of 10, 03 January 2022, Monday, 10, 3 Hours, 12 pm, 3 pm,  3000, 30000
+27, Ravi Rouniyar, 9878776765, Biratnagar, Adult > 12, 03 January 2022, Monday, 1, 4 Hours, 11 am, 3 pm,  2200, 2200

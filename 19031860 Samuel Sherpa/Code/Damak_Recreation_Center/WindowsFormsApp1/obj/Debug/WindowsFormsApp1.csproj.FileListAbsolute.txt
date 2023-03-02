@@ -1,0 +1,68 @@
+E:\C#\coursework\coursework\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\C#\coursework\coursework\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\C#\coursework\coursework\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\C#\coursework\coursework\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\C#\coursework\coursework\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\C#\coursework\coursework\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\C#\coursework\coursework\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\C#\coursework\coursework\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\C#\coursework\coursework\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\C#\coursework\coursework\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin.resources
+E:\C#\coursework\coursework\WindowsFormsApp1\bin\Debug\Microsoft.Azure.KeyVault.dll
+E:\C#\coursework\coursework\WindowsFormsApp1\bin\Debug\Microsoft.Azure.KeyVault.WebKey.dll
+E:\C#\coursework\coursework\WindowsFormsApp1\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+E:\C#\coursework\coursework\WindowsFormsApp1\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+E:\C#\coursework\coursework\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+E:\C#\coursework\coursework\WindowsFormsApp1\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+E:\C#\coursework\coursework\WindowsFormsApp1\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+E:\C#\coursework\coursework\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+E:\C#\coursework\coursework\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\C#\coursework\coursework\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+E:\C#\coursework\coursework\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Customer.resources
+E:\C#\coursework\coursework\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Staff.resources
+E:\VisualStudio_C#Files\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\VisualStudio_C#Files\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\VisualStudio_C#Files\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\VisualStudio_C#Files\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\Microsoft.Azure.KeyVault.dll
+E:\VisualStudio_C#Files\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\Microsoft.Azure.KeyVault.WebKey.dll
+E:\VisualStudio_C#Files\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+E:\VisualStudio_C#Files\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+E:\VisualStudio_C#Files\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+E:\VisualStudio_C#Files\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+E:\VisualStudio_C#Files\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+E:\VisualStudio_C#Files\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+E:\VisualStudio_C#Files\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\VisualStudio_C#Files\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminLogin.resources
+E:\VisualStudio_C#Files\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainLogin.resources
+E:\VisualStudio_C#Files\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\VisualStudio_C#Files\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\VisualStudio_C#Files\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\VisualStudio_C#Files\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\VisualStudio_C#Files\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\VisualStudio_C#Files\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StaffLogin.resources
+E:\VisualStudio_C#Files\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminPanel.resources
+E:\VisualStudio_C#Files\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StaffPanel.resources
+E:\VisualStudio_C#Files\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Addcutomer.resources
+F:\Year3\Application Development\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\Year3\Application Development\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\Year3\Application Development\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\Year3\Application Development\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\Microsoft.Azure.KeyVault.dll
+F:\Year3\Application Development\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\Microsoft.Azure.KeyVault.WebKey.dll
+F:\Year3\Application Development\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+F:\Year3\Application Development\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+F:\Year3\Application Development\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+F:\Year3\Application Development\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+F:\Year3\Application Development\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+F:\Year3\Application Development\Damak_Recreation_Center\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+F:\Year3\Application Development\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+F:\Year3\Application Development\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminPanel.resources
+F:\Year3\Application Development\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminLogin.resources
+F:\Year3\Application Development\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainLogin.resources
+F:\Year3\Application Development\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Year3\Application Development\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StaffPanel.resources
+F:\Year3\Application Development\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StaffLogin.resources
+F:\Year3\Application Development\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\Year3\Application Development\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\Year3\Application Development\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\Year3\Application Development\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\Year3\Application Development\Damak_Recreation_Center\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Addcustomer.resources

@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="catalog_19031860.css" Title="Jethako Music Store"?>
+<!-- <!DOCTYPE Music_Store SYSTEM "catalog_19031860.dtd"> -->
+
+<Music_Store xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="catalog_19031860.xsd">
+
+    <Name>Jethako Music Store</Name>
+    <Address>Damak-10, Jhapa, Nepal</Address>
+    <Contact>
+        <Telephone>023590972</Telephone>
+        <Phone>9814978419</Phone>
+        <Phone>9816924453</Phone>
+        <Facebook_Page>Jethako Pasal</Facebook_Page>
+    </Contact>
+    <Website_address>www.Jethakopasal.com</Website_address>
+    <Logo></Logo>
+
+    <!-- Song 1 -->
+    <Songs>
+        <Song song_id="song_1" Genre="AlternativeIndie" Length="4:22">
+            <Title>Song Name: Tum Hi Ho</Title>
+            <Language>Language: Hindi</Language>
+            <Writers>
+                <writer wr_id="wr_1" wr_gender="Male">Writer: Mithun Sharma</writer>
+            </Writers>
+            <Artists>
+                <Band></Band>
+                <Singers>
+                    <Solo>
+                        <S_Singer ssing_id="sing_1" s_gender="Male">Singer Name: Arijit Singh</S_Singer>
+                    </Solo>
+                </Singers>
+            </Artists>
+            <Album>Album : Aashiqui 2</Album>
+            <Released>Released Date: 16 March 2013</Released>
+            <Movie_Playback>Movie Playbacked: Aashiqui 2</Movie_Playback>
+            <Awards>
+                <Award>1) Award: Filmfare Award for Best Male Playback Singer</Award>
+                <Award>2) Award: Best Music Director</Award>
+                <Award>3) Award: Best Lyrics 2014</Award>
+                <Award>4) Award: Most Entertaining Song</Award>
+                <Award>5) Award: Song of the year(2014)</Award>
+                <Award>6) Award: 6th Mirchi Music Awards</Award>
+            </Awards>
+            <Director>Director: Mithun Sharma</Director>
+            <Composer>Composer: Mithun Sharma</Composer>
+            <Producer>Producer: Mukesh Bhatt and Team</Producer>
+        </Song>
+
+        <!-- Song 2 -->
+
+        <Song song_id="song_2" Genre="Rock" Length="5:45">
+            <Title>Song Name: Kimi no nawa</Title>
+            <Language>Language: Japanese</Language>
+            <Writers>
+                <writer wr_id="wr_2" wr_gender="Male">Writer: Uzumdami Seiju</writer>
+            </Writers>
+            <Artists>
+                <Band>Band Name: Radwips</Band>
+                <Singers>
+                    <Solo>
+                        <S_Singer ssing_id="sing_2" s_gender="Male">Singer Name: Yojiro Noda</S_Singer>
+                    </Solo>
+                </Singers>
+            </Artists>
+            <Album>Album:Your Name</Album>
+            <Released>Released Date: 24 August 2016</Released>
+            <Movie_Playback>Movie Playback: Your name</Movie_Playback>
+            <Awards>
+                <Award>1) Award: 58th Japan record Awards</Award>
+                <Award>2) Award: Japan Academy prize</Award>
+                <Award>3) Award: Japan Gold Disc Award</Award>
+            </Awards>
+            <Director>Director: Radwimps</Director>
+            <Composer>Composer: Radwimps</Composer>
+            <Producer></Producer>
+        </Song>
+
+
+        <!-- Song 3 -->
+
+        <Song song_id="song_3" Genre="Nepali Folk" Length="6:28">
+            <Title>Song Name: Kusume Rumal</Title>
+            <Language>Language: Nepali</Language>
+            <Writers>
+                <writer wr_id="wr_3" wr_gender="Male">Writer: Tulsi Ghimire</writer>
+            </Writers>
+            <Artists>
+                <Band></Band>
+                <Singers>
+                    <Duets>
+                        <D_Singer dsing_id="sing_3" d_gender="Male">1) Singer: Udit Narayan Jhap</D_Singer>
+                        <D_Singer dsing_id="sing_4" d_gender="Female">2) Singer: Deepa Jha</D_Singer>
+                    </Duets>
+                </Singers>
+            </Artists>
+            <Album></Album>
+            <Released>Released date: 1985</Released>
+            <Movie_Playback>Movie Playback: Kusume Rumal</Movie_Playback>
+            <Awards>
+                <Award>1) Award: Most Entertaining Song</Award>
+                <Award>2) Award: Precious Song of the century</Award>
+            </Awards>
+            <Director>Director: Ranjit Gazmer</Director>
+            <Composer>Composer: Abhisek pradhan</Composer>
+            <Producer></Producer>
+        </Song>
+
+
+        <!-- Song 4 -->
+
+        <Song song_id="song_4" Genre="Pop,rock" Length="3:36">
+            <Title>Song Name: Summer of 69</Title>
+            <Language>Language: English</Language>
+            <Writers>
+                <writer wr_id="wr_4" wr_gender="Male">1) Writer: Jim Vallance</writer>
+                <writer wr_id="wr_04" wr_gender="Male">2) Writer: Bryan Adams</writer>
+            </Writers>
+            <Artists>
+                <Band></Band>
+                <Singers>
+                    <Solo>
+                        <S_Singer ssing_id="sings_4" s_gender="Male">Singer: Bryan Adams</S_Singer>
+                    </Solo>
+                </Singers>
+            </Artists>
+            <Album>Album: Reckless</Album>
+            <Released>Released date: 17 June 1985</Released>
+            <Movie_Playback></Movie_Playback>
+            <Awards>
+                <Award>1) Award: BMI (Broadcast Music Inc.)</Award>
+                <Award>2) Award: Procan Award</Award>
+                <Award>3) Award: Socan Classic Award</Award>
+            </Awards>
+            <Director></Director>
+            <Composer>1) Composer: Bob clearmountain</Composer>
+            <Composer>2) Composer: Bryan Adams</Composer>
+            <Producer></Producer>
+        </Song>
+
+
+        <!-- Song 5 -->
+
+        <Song song_id="song_5" Genre="Nepali indie" Length="4:47">
+            <Title>Song Name: Sombadhan Timilai</Title>
+            <Language>Language: Nepali</Language>
+            <Writers>
+                <writer wr_id="wr_5" wr_gender="Male">Writer: Biswas Lama</writer>
+            </Writers>
+            <Artists>
+                <Band>Band: 1974 AD</Band>
+                <Singers>
+                    <Solo>
+                        <S_Singer ssing_id="sing_5" s_gender="Male">Singer: Adrain Pradhan</S_Singer>
+                    </Solo>
+                </Singers>
+            </Artists>
+            <Album>Album: Satabdi</Album>
+            <Released>Release Date: 2001</Released>
+            <Movie_Playback></Movie_Playback>
+            <Awards>
+                <Award>Award: Most Air Played</Award>
+            </Awards>
+            <Director>Director: Manoj Kumar KC</Director>
+            <Composer>1) Composer: Biswas Lama</Composer>
+            <Composer>2) Composer: Adrain Pradhan</Composer>
+            <Producer></Producer>
+        </Song>
+
+
+        <!-- Song 6 -->
+
+        <Song song_id="song_6" Genre="Hip hop,Pop-rap" Length="3:49">
+            <Title>Song Name: See you again</Title>
+            <Language>Language: English</Language>
+            <Writers>
+                <writer wr_id="wr_61" wr_gender="Male">1) Writer: Cameron</writer>
+                <writer wr_id="wr_62" wr_gender="Male">2) Writer: Charlie Puth</writer>
+                <writer wr_id="wr_63" wr_gender="Male">3) Thomaz Andrew Cedar</writer>
+                <writer wr_id="wr_64" wr_gender="Male">4) Dann Hume</writer>
+                <writer wr_id="wr_65" wr_gender="Male">5) Josh Hardy</writer>
+            </Writers>
+            <Artists>
+                <Band></Band>
+                <Singers>
+                    <Duets>
+                        <D_Singer dsing_id="sing_6" d_gender="Male"> 1)Singer: Charlie Puth</D_Singer>
+                        <D_Singer dsing_id="sing_61" d_gender="Male">2)Singer: Wiz Khalifa</D_Singer>
+                    </Duets>
+                </Singers>
+            </Artists>
+            <Album></Album>
+            <Released>Release Date: 10 March 2015</Released>
+            <Movie_Playback>Movie Playback: Fast &amp; Furious</Movie_Playback>
+            <Awards>
+                <Award>1) Award: BillBoard Hot 100</Award>
+                <Award>2) Award: Song of the year 2016</Award>
+                <Award>3) Award: Collaboration of the year</Award>
+            </Awards>
+            <Director></Director>
+            <Composer>1) Composer: DJ Frank E</Composer>
+            <Composer>2) Composer: Charlie Puth</Composer>
+            <Composer>3) Composer: Andrew Cedar</Composer>
+            <Producer></Producer>
+        </Song>
+
+
+        <!-- Song 7 -->
+
+        <Song song_id="song_7" Genre="Nepali Patriotic Folk" Length="1:11">
+            <Title>Song Name: Sayaun Thunga Phulka</Title>
+            <Language>Language: Nepali</Language>
+            <Writers>
+                <writer wr_id="wr_7" wr_gender="Male">Writer: Byakul Maila</writer>
+            </Writers>
+            <Artists>
+                <Band></Band>
+                <Singers>
+                    <Solo>
+                        <S_Singer ssing_id="sing_7" s_gender="Male">Singer: Amber Gurung</S_Singer>
+                    </Solo>
+                </Singers>
+            </Artists>
+            <Album></Album>
+            <Released>Release Date: 3 August 2007</Released>
+            <Movie_Playback></Movie_Playback>
+            <Awards>
+                <Award>Award: Third listed in Rio 2016</Award>
+            </Awards>
+            <Director></Director>
+            <Composer>Composer: Amber Gurung</Composer>
+            <Producer></Producer>
+        </Song>
+
+
+        <!-- Song 8 -->
+
+        <Song song_id="song_8" Genre="Feature Film soundtrack" Length="6:41">
+            <Title>Songe Name: Dil Hain Tumhara</Title>
+            <Language>Language: Hindi</Language>
+            <Writers>
+                <writer wr_id="wr_8" wr_gender="Male">Writer: Aseem Sinha</writer>
+            </Writers>
+            <Artists>
+                <Band></Band>
+                <Singers>
+                    <Group>
+                        <G_Singer gsing_id="sing_81" g_gender="Male">1) Singer: Udit Narayan Jha</G_Singer>
+                        <G_Singer gsing_id="sing_82" g_gender="Female">2) Singer: Alka Yagni</G_Singer>
+                        <G_Singer gsing_id="sing_83" g_gender="Male">3) Singer: Kumar Sanu</G_Singer>
+                    </Group>
+                </Singers>
+            </Artists>
+            <Album></Album>
+            <Released>Released Date: 28 June 2002</Released>
+            <Movie_Playback>Movie Playback: Dil Hain Tumhara</Movie_Playback>
+            <Awards>
+                <Award>1) Award: Song of the year</Award>
+                <Award>2) Award: Mirchi Award 2994</Award>
+            </Awards>
+            <Director></Director>
+            <Composer>Composer: Surinder Sodhi</Composer>
+            <Producer>Producer: Nadeem Shravan</Producer>
+        </Song>
+
+
+        <!-- Song 9 -->
+
+        <Song song_id="song_9" Genre="Show tune" Length="3:45">
+            <Title>Song Name: Let it go</Title>
+            <Language>English</Language>
+            <Writers>
+                <writer wr_id="wr_9" wr_gender="Female">1) Writer: Kristen Anderson-Lopez</writer>
+                <writer wr_id="wr_91" wr_gender="Male">2) Writer: Robert Lopez</writer>
+            </Writers>
+            <Artists>
+                <Band></Band>
+                <Singers>
+                    <Solo>
+                        <S_Singer ssing_id="sing_9" s_gender="Female">Singer: Idina Menzel</S_Singer>
+                    </Solo>
+                </Singers>
+            </Artists>
+            <Album></Album>
+            <Released>Release Date: 2013</Released>
+            <Movie_Playback>Movie playback: Let it go</Movie_Playback>
+            <Awards>
+                <Award>Award: walt Disney song of the year</Award>
+            </Awards>
+            <Director>Director: Samuel aprehs</Director>
+            <Composer>Composer: Kristen Anderson-Lopez</Composer>
+            <Composer>Composer: Christophe Beck</Composer>
+            <Producer></Producer>
+        </Song>
+
+
+        <!-- Song 10 -->
+
+        <Song song_id="song_10" Genre="Nepali folk Rock" Length="3:22">
+            <Title>Song Name: Tal ko pani</Title>
+            <Language>Language: Nepali</Language>
+            <Writers>
+                <writer wr_id="wr_10" wr_gender="Male">Writer: Anonymous</writer>
+            </Writers>
+            <Artists>
+                <Band>Band: Nepathya</Band>
+                <Singers>
+                    <Solo>
+                        <S_Singer ssing_id="sing_10" s_gender="Male">Singer: Amrit Gurung</S_Singer>
+                    </Solo>
+                </Singers>
+            </Artists>
+            <Album>Album: Bheda ko Ooon Jasto</Album>
+            <Released>Release Date: 2003</Released>
+            <Movie_Playback></Movie_Playback>
+            <Awards>
+                <Award>Award: Nepali heart song</Award>
+            </Awards>
+            <Director></Director>
+            <Composer>Composer: Nepathya</Composer>
+            <Producer>Producer: Kishor Raj</Producer>
+        </Song>
+    </Songs>
+</Music_Store>

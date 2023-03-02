@@ -1,0 +1,70 @@
+Music_Store {
+    font-family:sans-serif;
+    font-size: 20px;
+    margin-top: 10px;
+    text-align:left;
+    color: rgb(196, 44, 102);
+    background-color: #41403f;
+}
+
+Music_Store Name {
+    font-family: initial;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+Logo {
+    background-image: url("MusicShop_logo.png");
+    width: 200px;
+    height: 200px;
+    background-repeat: no-repeat;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    float: center;
+    margin: -125px 0px 0px 0px;
+    background-size: 200px 200px;
+    border-radius: 10px;
+    clip-path: circle();
+}
+
+
+
+ Song{
+    display: list-item;
+    list-style-type:decimal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    margin: 20px 400px;
+    padding: 10px 30px;
+    background-color: #5ba7d3;
+    border: solid 3px rgb(224, 22, 99);
+    border-radius:8%;
+    border-style:dotted;
+
+}
+
+Title {
+    display:block;
+    font-weight: bold;
+    color: rgb(245, 181, 98);
+}
+/* Name,address,Contact,Facebook_Page,Website_address */
+
+Name,Address, Contact,Facebook_Page, Website_address,Logo{
+    display: block;
+    text-align: center;
+}
+
+Language,Writers,Artists,Album,Released,Awards,Director,Composer,Producer {
+    display: block;
+}
+Artists Band,Singers,Solo,Singer,Duets,Group{
+    display: block;
+    color: rgb(90, 250, 90);
+}
+Awards Award{
+    display: block;
+    color: yellow;
+}
